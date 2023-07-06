@@ -10,6 +10,6 @@ Like other to-do list application, our app intend to give customer a place where
 
 ## Screen-shots
 - DashBoard of Task Management app
-![DashBoard](https://github.com/thanhphongchupanh/IT-Human-Resource-Management/blob/main/screenshot/dashboard.jpg)
+![DashBoard]([https://github.com/thanhphongchupanh/IT-Human-Resource-Management/blob/main/screenshot/dashboard.jpg](https://github.com/hoanglamdev1811/Task_Management/blob/main/screenshot/homepage.jpg)https://github.com/hoanglamdev1811/Task_Management/blob/main/screenshot/homepage.jpg)
 
 #### Copyright &#169;2023 Hoang.Lam
